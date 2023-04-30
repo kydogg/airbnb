@@ -1,7 +1,9 @@
+"use client";
+
 import Container from "../Container";
 import Logo from "./Logo";
 import Search from "./Search";
-import UserMenu from "./userMenu";
+import UserMenu from "./UserMenu";
 // import MenuItem from "./MenuItem";
 // import Categories from "./Categories";
 
